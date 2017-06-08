@@ -1,0 +1,19 @@
+{
+  "name": "tvbus.js",
+  "version": "0.5.1",
+  "description": "nodejs module for tvbus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tvbus",
+    "nodejs",
+    "p2p",
+    "streaming"
+  ],
+  "author": "binstream.io",
+  "dependencies": {
+    "babel-preset-es2015": "^6.22.0"
+  }
+}
