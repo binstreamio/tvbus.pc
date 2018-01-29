@@ -1,6 +1,6 @@
 {
   "name": "tvbus.js",
-  "version": "0.5.1",
+  "version": "0.5.5",
   "description": "nodejs module for tvbus",
   "main": "index.js",
   "scripts": {

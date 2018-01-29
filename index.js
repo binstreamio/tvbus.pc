@@ -13,7 +13,7 @@ class TVBus {
 
     static get version() {
         // replaced with browserify-versionify transform
-        return '5.4.0';
+        return '5.5.5';
     }
 
     constructor() {
