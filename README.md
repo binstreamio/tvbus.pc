@@ -1,23 +1,21 @@
-tvbus.pc
-=================
-
+### tvbus.pc
+------
 tvbus.pc is a live streaming SDK based on P2P technology on win32, macOS and linux platform.
 
 
-Features
+### Features
 ------
-
 1. Extremely bandwidth saving.
-2. Totally compatible with Android native player.
-3. HEVC support.
-4. Multiple platform(Android, Windows, macOS) support.
+1. Totally compatible with Android native player.
+1. HEVC support.
+1. Multiple platform(Android, Windows, macOS) support.
 
 
-How to use
+### How to use
 -----
+Please refer to https://github.com/binstreamio/tvbus.pc.demo
 
-Please refer to the demo in the repository.
 
-More info
+### More info
 ----
 www.binstream.io
